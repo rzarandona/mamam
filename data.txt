@@ -1,0 +1,531 @@
+password: W43GsqEkFvxGndeDruWU
+
+9LCjdvV&+%zNhBVp
+9 LAPTOP COFFEE jack drip visa VISA & + % zip NUT hulu BESTBUY VISA park
+
+
+520transport
+
+dbname: trans520_wp
+dbuser: trans520_dev
+dbpass: lXt3hcfLr{wk
+
+
+-----------------------------------------
+
+
+Via Dolce Salon
+
+dbname: viadol_wp
+dbuser: viadol_dev
+dbpass: CL*U,[m#CyLG
+
+
+-----------------------------------------
+
+
+Multisar
+
+dbname: multisar_wp
+dbuser: multisar_dev
+dbpass: ?GhT]E[y0I6k
+
+
+
+-----------------------------------------
+
+
+Wordpress.com
+
+pass: s!GJy39P3*m9x9Y$qKsxEF8cDCD7#jVK7qr
+
+
+-----------------------------------------
+
+Northstar Capital
+
+dbname: northcap_wp
+dbuser: northcap_dev
+dbpass: }arx4sKSg1U_
+
+
+
+
+-----------------------------------------
+
+the Diaper Drawer
+
+dbname: diaper_wp
+dbuser: diaper_dev
+dbpass: _hT28EA~=E?y
+
+
+
+-----------------------------------------
+
+Browserstack ni chris
+
+login: https://www.browserstack.com/users/sign_in
+user: chris@split5.com
+pass: 3AEsz2jzsnGQv
+
+
+-----------------------------------------
+
+
+Noob Apparel
+
+hostname: 166.62.8.13
+dbname: noobapparel
+username: noobapparel
+password: Webd1234!
+
+
+
+-----------------------------------------
+
+QUADCA
+
+dbname: quadca_wp
+dbuser: quadca_dev
+dbpass: TwvA3gJs2cLJ
+
+
+
+-----------------------------------------
+
+
+Common Wealth
+
+dbname: commonwe_wp
+dbuser: commonwe_dev
+dbpass: V7]{B6uu#NW5
+
+
+-----------------------------------------
+
+
+Lash Lines
+
+dbname: lashline_wp
+dbuser: lashline_dev
+dbpass: {(3K%DxDq{dq
+
+
+
+-----------------------------------------
+
+
+
+Prime Pictures
+
+dbname: primepic_wp
+dbuser: primepic_dev
+dbpass: _pr_N[&;yki@
+
+
+
+-----------------------------------------
+
+
+Illuman API details
+
+API login: 748BK4tBcKx7
+Transaction Key: 5z5ybYJ784QP68cS
+
+
+-----------------------------------------
+
+
+Illuman Sandbox details
+
+API login: 5Zm47AHzs
+Transaction Key: 533wwF688XLUu6Fv
+
+
+-----------------------------------------
+
+
+
+
+
+
+
+Transaction Key: 5z5ybYJ784QP68cS
+
+
+
+
+
+-----------------------------------------
+
+
+
+St Paul
+
+dbname: stpaul_wp
+dbuser: stpaul_dev
+dbpass: lilN7]C9@.?9
+
+
+4+ 3
+
+
+-----------------------------------------
+
+
+craiggs
+
+dbname: craiggsonline14_wp
+dbuser: craiggs_dev
+dbpass: J%uw85v3
+
+admin user:craiggsonline14
+admin pass:Chithrakha87
+
+
+
+*** NEW INFO ***
+
+FTP:
+craiggsnutrition.com
+craiggsonline14
+Chithrakha87
+
+WP
+
+admin username
+chithrakha87  password
+
+
+-----------------------------------------
+
+Animatous
+
+Admin:  http://newsite.animatous.com/wp-admin/
+
+User: Animatous
+
+Pass:   )E42.:p~8crkaKq
+
+Your Control Panel: https://gator4122.hostgator.com:2083
+    Username:           liquidro
+    Domain:             liquidrockmedia.com
+    Password:           2f3^MG8,\6@7L,Y
+
+footer bg : 041604
+
+
+New FTP
+login: rein@liquidrockmedia.co.uk
+pass: a));T},b9]SQ
+
+
+
+
+--------------------------------------------
+
+
+Sweta Desa FTP
+
+username: dev@swetadesai.com
+password: 0%mOKjryj6H%H6NZ
+
+WP login
+
+user: swetadesai2
+pass: $i77yp@nda
+
+
+
+
+
+--------------------------------------------
+
+
+
+adologi test server API details
+
+sk_test_A8Dho4UO18HRjsnpQfDObkir
+pk_test_57sJn5MKjfasT6EXrQaSgOWT
+
+
+Aweber
+precisera
+Rein12!
+
+Liz Odesk
+username: lizlanzarandona@gmail.com
+password: webd1234
+
+WP
+username: Rein
+password: zarandona
+
+Wunderlist
+usernmae: rein.zarandona@gmail.com
+password: webd1234
+
+
+
+--------------------------------------------
+
+
+Celebjet
+
+http://celebjet.net
+http://celebjet.net/wp-admin
+UN: celebjetadmin
+PW: piff8892###
+
+Dev 
+
+dbname: celebjet
+dbuser: celebjet_dev
+dbpass: T]k?7+oR7N1%
+
+
+
+--------------------------------------------
+
+
+
+Transform IT A
+
+dbname: transformita
+dbuser: transformita
+dbpass: B,4aMk@Iu^67
+
+
+-------------------------------------------
+
+
+Diamond
+
+dbname: diamond_db
+dbuser: diamond_user
+dbpass: TiNK}GT?{8[0
+
+
+
+-------------------------------------------
+
+
+Luers
+
+dbname: luers_db
+dbuser: luers_dev
+dbpass: X)SpL4B2{OOC
+
+www.bishopluers.org/campaign
+wp-user: kskelly
+wp-pass: Bishopluers86!
+
+www.luers.endlesssunday.com
+wp-user: admin
+wp-pass: Bishopluers86!
+
+FTP: endlesssunday.com
+user: endlesss
+pass: 97Trading88
+
+
+-------------------------------------------
+
+
+Learn Product
+
+dbname: learnproduct_db
+dbuser: learnproduct
+dbpass: {TH,tAa6x(CN
+
+
+-------------------------------------------
+
+
+Transform IT Agile
+
+dbname: transformita_db
+dbuser: transformita_dev
+dbpass: (^0Cwhk*}DPC
+
+
+-------------------------------------------
+
+
+Equipment FX
+
+dbname: efx_db
+dbuser: efx_user
+dbpass: m7;#$LBpvMVA
+
+-------------------------------------------
+
+Funny Wall Photos
+
+dbname: funnywall_db
+dbuser: funnywall_user
+dbpass: vb=J#%)2Zd==
+
+-------------------------------------------
+
+1495
+
+dbname: 1495_db
+dbuser: user_1495
+dbpass: d32*HJ6TT*=C
+
+-------------------------------------------
+
+vapemood 
+
+host: www.vapemood.com
+username: rein@vapesociety.com
+password: vape123society
+
+WP
+Username: rein
+Password: vape123society
+http://vapemood.com/wp-login.php
+
+
+WebSynthesis
+
+https://accounts.websynthesis.com/login.aspx
+
+Username: cesar@camposinc.net
+PW: Vape1027life$
+
+Domain:	staus304.wsynth.net
+User:	vapesocietycom
+Password:HpgIiDMBIBx
+
+
+DEV SITE
+
+dbname: vapesociety
+dbuser: vapesociety_user
+dbpass: ^NJf-s&M(S*C
+
+vapemood live credentials
+
+https://my.bluehost.com/hosting/dm
+username: vapesociety.com
+password: Vape1027life$
+
+-------------------------------------------
+
+Columbia Children's Center
+
+dbname: ccc
+dbuser: ccc_user
+dbpass: Jvi~gn!HgRu2
+
+
+-------------------------------------------
+
+Nobly Details
+
+WP
+Username: reinhard
+Password: noblyrein5959
+
+
+-------------------------------------------
+
+Corebis
+
+dbname: corebis
+dbuser: corebis_user
+dbpass: Jz1!@x[g%9VI
+
+
+
+-------------------------------------------
+
+
+Cambria Inns
+
+wordpress login
+cambriadev
+cambriadev8432
+
+FTP
+Server Address	server148.web-hosting.com
+Username	cambaazw
+Password	bb-5Nr7kBSusP
+FTP Mode	Passive
+FTP Port	21
+SFTP Port	21098
+
+
+
+------------------------------------------
+
+http://dollfacepersiankittens.com/
+username: admin
+password: OshKosh2015
+
+
+-----------------------------------------
+
+
+Jenn Lane
+
+FTP:
+http://www.bluehost.com/
+Username. georgerussoassociates.co
+passwd: oRP5*Knp??u
+
+WP:
+http://doityourselfloanmod.com/wp-admin
+grussoesq@aol.com
+9kUja1R3Lo2XCe5
+
+Mailchimp:
+user: georgerusso2
+pass: Genesis1985-
+
+New FTP
+rein@georgerussoassociates.co
+_=MW.n+crEmF
+
+
+--------------------------------------------
+
+Ristorante
+
+HTTP Auth
+User: admin
+Pass: WGvj7inkM6
+
+
+--------------------------------------------
+
+
+Sandbox
+
+login id: W43GsqEkFvxGndeDruWU
+password: W43GsqEkFvxGndeDruWU
+
+API Login ID: 3Q74gvLqza
+Transaction Key: 753KJvQ4a75r2zFE
+Secret Question: Simon
+
+
+-------------------------------------------
+
+
+SEVAA PMS login
+
+Email:		rein.zarandona@gmail.com
+Password:	aR4wELiqxVWrqTYAFgy.
+
+
+
+---------------------------------------------
+
+
+Vanguard
+
+MailChimp Api Key: f840e13899fe5ba7d3944d1ef9513d9b-us11
